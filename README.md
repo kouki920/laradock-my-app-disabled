@@ -1,1 +1,1 @@
-# laradock pf作成頑張るぞい
+# laradock pf作成
